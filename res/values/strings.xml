@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="hello">Choose one of the features below.</string>
+
+    <string name="app_name">BackTrack-PG</string>
+    <string name="description_logo">Sample</string>
+
+    <string name="photoAlbum">Boot BackTrack</string>
+    <string name="msg">TEST</string>
+    <string name="search">TEST</string>
+    <string name="about">TEST</string>
+    <string name="home">Dashboard</string>
+    
+    <string name="default_intro">This is the default content view for an activity. Be sure to change your activity\'s onCreate method. Use setContentView on a custom layout.</string>
+    <string name="msg_detail">Messages Available.</string>
+    <string name="photoAlbum_detail"> View Albums</string>
+    <string name="about_detail">This app is a sample Dashboard pattern App</string>
+    <string name="search_detail">Search Content</string>
+
+	<string name="title_about">About</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_message">Message</string>
+    <string name="title_photoalbum">PhotoAlbum</string>
+	
+    <string name="open_new_window">Open New Window</string>
+    <string name="script_label">Script:</string>
+    <string name="run_script">Run Script</string>
+    <string name="help">Welcome to BackTrack-PG \n\n\nStart Script intents to Android Terminal Emulator.\n \nHave pfun and Hack The Planet with your Android :-) \n \n</string>
+
+    <!-- Do not translate: -->
+	<string name="default_script">su \nsleep 2 \ncd /sdcard/backtrack \necho Backtrack Android App by cr4shy  http://security-is-just-an-illusion.blogspot.de \nsleep 10 \nsh backtrack.sh</string>
+    
+
+</resources>
